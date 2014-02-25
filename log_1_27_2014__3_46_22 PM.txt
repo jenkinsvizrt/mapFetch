@@ -1,0 +1,4 @@
+1/27/2014__3:46 PM Downloading download.vizrt.com//viz%20street%20data/OSM/contentsDate.txt to /contentsDate.txt
+1/27/2014__3:46 PM Downloading contentsDatsdfsfdsfsdfsdf
+1/27/2014__3:46 PM FTP empty user or password!!
+1/27/2014__3:46 PM Completed!
